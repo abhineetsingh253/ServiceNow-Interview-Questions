@@ -1,4 +1,4 @@
-# ServiceNow-Interview-Questions-and-Answers
+# ServiceNow-Interview-Questions
 
 ![ServiceNow](https://cdn.worldvectorlogo.com/logos/servicenow-1.svg)
 

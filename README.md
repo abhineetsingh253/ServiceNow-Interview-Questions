@@ -24,5 +24,17 @@
 ## ServiceNow Interview Questions on Service Portal
 ## ServiceNow Incident Management Interview Questions
 ## ServiceNow Human Resource Service Management Interview Questions
+
+### Which plugin need to activate to access Human Resource Service Management (HRSM) Module?
+### What is the stage of HR cases when created?
+### What are the two ways to open a new HR case?
+### What is the skills field used for?
+### Can we specify more than one Skills for a HR Case?
+### How can you Add or modify an HR skill?
+### What is Center of Excellence (COE) in HRSM?
+### What is the difference between Opened For and Subject Person?
+### What is Response Template in HRSM?
+### How you can escalate an HR Case?
+
 ## How to Crack ServiceNow Interview
 

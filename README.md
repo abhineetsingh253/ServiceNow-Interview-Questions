@@ -24,6 +24,11 @@
 9.	What is isLoading function?
 10.	Can we call GlideRecord() in client script?
 11.	What Is Run script on UI Policy and how does this work?
+12. What is difference between Service Request and Incident?
+13. What is category and catalog item?
+14. How to show a service request only to some set of users or groups?
+15. Which field differentiates catalog item, order guide and Record Producers? 
+
 
 
 
@@ -41,6 +46,8 @@
 10.	What is difference between * and None in ACL
 11.	What role we need to create or update an ACL
 12.	Is admin able to create an acl?
+13. What is inbound email action?
+14. What is the email address of an instance? Where it is mentioned?
 
 
 ## ServiceNow Interview Questions on Service Portal

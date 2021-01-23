@@ -13,8 +13,14 @@
 
 
 ## ServiceNow Admin Interview Questions
+
+#### Which role is given to Support users who will work on a ticket?
+#### If a user with no role logged in in system then where will that user will be landed?
+#### Can you see the password of a user?
+
+
 ## ServiceNow Developer Interview Questions
-## ServiceNow Coding Interview Questions
+
 ## ServiceNow Interview Questions on Service Portal
 ## ServiceNow Incident Management Interview Questions
 ## ServiceNow Human Resource Service Management Interview Questions

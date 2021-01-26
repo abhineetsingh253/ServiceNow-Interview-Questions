@@ -29,9 +29,6 @@
 14. How to show a service request only to some set of users or groups?
 15. Which field differentiates catalog item, order guide and Record Producers? 
 
-
-
-
 ## ServiceNow Developer Interview Questions
 
 1.	Can we write client side scripts in a UI action? If yes How?
@@ -48,10 +45,27 @@
 12.	Is admin able to create an acl?
 13. What is inbound email action?
 14. What is the email address of an instance? Where it is mentioned?
+15.	Tell me about a case where you'd use an asynchronous call
+16.	Difference between * and None acl?
+17.	Explain Scratchpad in Business rules and Workflow
+18.	Explain to me what GlideAggregate does and write me a small query.
+19.	What's a Script Include and how does it make your life easier?
+20.	What's the difference between server and client side scripting in ServiceNow?
+21.	How to calculate the date difference and process no of days open?
 
 
 ## ServiceNow Interview Questions on Service Portal
+
+1.	Give me an example of a time you implemented a live list using recordWatch?
+2.	Tell me about a challenging widget you built?
+3.	What do you consider the best feature of Service Portal and why?
+4.	Give me an example of a widget you've built that uses templates?
+5.	Why did you choose templates for that use case instead of inline HTML?
+6.	Tell me about a time you had to make two widgets communicate with each other?
+
+
 ## ServiceNow Incident Management Interview Questions
+
 ## ServiceNow Human Resource Service Management Interview Questions
 
 1.	Which plugin need to activate to access Human Resource Service Management (HRSM) Module?

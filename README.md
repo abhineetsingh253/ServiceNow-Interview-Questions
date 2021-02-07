@@ -1,6 +1,7 @@
 # ServiceNow-Interview-Questions
 
-![ServiceNow](https://cdn.worldvectorlogo.com/logos/servicenow-1.svg)
+
+<img src="https://cdn.worldvectorlogo.com/logos/servicenow-1.svg" width="260" alt="ServiceNow Interview Questions">
 
 <br>
 <br>

@@ -119,6 +119,12 @@
 9.	What is Response Template in HRSM?
 10.	How you can escalate an HR Case?
 
+<p>
+ <a href="https://servicenowgyan.com/hrsm/">
+            <b>HRSM Interview Questions and Answers</b>
+        </a>
+ </p>
+
 
 ## How to Crack ServiceNow Interview
 How to crack Service Now Interview

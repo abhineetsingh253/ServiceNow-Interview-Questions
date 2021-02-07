@@ -102,4 +102,13 @@
 
 
 ## How to Crack ServiceNow Interview
-
+How to crack Service Now Interview
+1.	First review which ServiceNow profile you will be working on, Administrator, Developer, Architect.
+2.	Prepare your resume based on the profile.
+3.	Research the company you will be interviewed for.
+4.	Gain Knowledge about various offering in ServiceNow product.
+5.	Prepare accordingly if interview will be telephonic, online webcam, face to face.
+6.	Prepare commonly asked ServiceNow interview questions.
+7.	Prepare list of questions to Interviewer. 
+  •	How many clients you will be working for?
+  •	How many instances you will be working on?

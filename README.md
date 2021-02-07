@@ -66,6 +66,27 @@
 
 ## ServiceNow Incident Management Interview Questions
 
+1.	What is Incident?
+2.	Difference between Incident and Problem?
+3.	Difference between Incident and Request?
+4.	What is Major Incident?
+5.	What is importance of communication in Major Incident?
+6.	What is SLA?
+7.	What is OLA?
+8.	What is Under Pinning Contract?
+9.	What is KPI?
+10.	What is an Outage?
+11.	How did you manage working support team roaster?
+12.	What is workaround mean in Incident Management?
+13.	Difference between impact and urgency?
+14.	How to define the priority of the incident?
+15.	When incident should be converted to problem?
+16.	How to work on repetitive incident?
+17.	How to improve quality of registered incident?
+18.	What you will do if Incident registered but you cannot get in contact with user?
+19.	What is difference between resolved and closed?
+20.	In which scenario Incident can be repopned?
+
 ## ServiceNow Human Resource Service Management Interview Questions
 
 1.	Which plugin need to activate to access Human Resource Service Management (HRSM) Module?

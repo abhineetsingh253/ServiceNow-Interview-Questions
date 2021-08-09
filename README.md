@@ -28,6 +28,7 @@
 - [ServiceNow Incident Management Interview Questions](#servicenow-incident-management-interview-questions)
 - [ServiceNow Human Resource Service Management Interview Questions](#servicenow-human-resource-service-management-interview-questions)
 - [How to Crack ServiceNow Interview](#how-to-crack-servicenow-interview)
+- [ServiceNow CSA Practice Exam Questions](#servicenow-csa-practice-exam-questions)
 
 
 ## ServiceNow Admin Interview Questions
@@ -133,3 +134,37 @@ How to crack Service Now Interview
 7.	Prepare list of questions to Interviewer. 
   •	How many clients you will be working for?
   •	How many instances you will be working on?
+  
+## ServiceNow CSA Practice Exam Questions
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+A. Mapping fields using the Import Log
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+D. Mapping fields using a Field Map
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+A. Mapping fields using the Import Log
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+D. Mapping fields using a Field Map
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+A. Mapping fields using the Import Log
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+D. Mapping fields using a Field Map
+
+When using the Load Data and Transform Map process, what is the Mapping Assist used for?
+A. Mapping fields using the Import Log
+B. Mapping fields using Transform History
+C. Mapping fields using an SLA
+D. Mapping fields using a Field Map
+
+What information does the System Dictionary contain?
+A. The human-readable labels and language settings
+B. The definition for each table and column
+C. The information on how tables relate to each other
+D. The language dictionary used for spell checking
+
+<p><a href="https://interviewquestions.guru/servicenow-csa-practice-exam-questions/"><b>ServiceNow CSA Dumps</b></a></p>

@@ -138,10 +138,10 @@ How to crack Service Now Interview
 ## ServiceNow CSA Practice Exam Questions
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
-A. Mapping fields using the Import Log
-B. Mapping fields using Transform History
-C. Mapping fields using an SLA
-D. Mapping fields using a Field Map
+1.	Mapping fields using the Import Log
+2.	Mapping fields using Transform History
+3.	Mapping fields using an SLA
+4.	Mapping fields using a Field Map
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
 A. Mapping fields using the Import Log

@@ -144,27 +144,27 @@ When using the Load Data and Transform Map process, what is the Mapping Assist u
 4.	Mapping fields using a Field Map
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
-A. Mapping fields using the Import Log
-B. Mapping fields using Transform History
-C. Mapping fields using an SLA
-D. Mapping fields using a Field Map
+1.	Mapping fields using the Import Log
+2.	Mapping fields using Transform History
+3.	Mapping fields using an SLA
+4.	Mapping fields using a Field Map
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
-A. Mapping fields using the Import Log
-B. Mapping fields using Transform History
-C. Mapping fields using an SLA
-D. Mapping fields using a Field Map
+1.	Mapping fields using the Import Log
+2.	Mapping fields using Transform History
+3.	Mapping fields using an SLA
+4.	Mapping fields using a Field Map
 
 When using the Load Data and Transform Map process, what is the Mapping Assist used for?
-A. Mapping fields using the Import Log
-B. Mapping fields using Transform History
-C. Mapping fields using an SLA
-D. Mapping fields using a Field Map
+1.	Mapping fields using the Import Log
+2.	Mapping fields using Transform History
+3.	Mapping fields using an SLA
+4.	Mapping fields using a Field Map
 
 What information does the System Dictionary contain?
-A. The human-readable labels and language settings
-B. The definition for each table and column
-C. The information on how tables relate to each other
-D. The language dictionary used for spell checking
+1.	The human-readable labels and language settings
+2.	The definition for each table and column
+3.	The information on how tables relate to each other
+4.	The language dictionary used for spell checking
 
 <p><a href="https://interviewquestions.guru/servicenow-csa-practice-exam-questions/"><b>ServiceNow CSA Dumps</b></a></p>

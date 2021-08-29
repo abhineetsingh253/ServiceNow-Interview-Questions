@@ -34,14 +34,14 @@
 
 ## ServiceNow Resume Samples Download
 
-Customized Resume Avaiable for
+Customized Resume Avaiable for<br>
 
-•	Business Analyst
-•	Developers
-•	Admin
-•	Tester
-•	HRSD Developer & Admin
-•	SecOps Dev & Consultant
+•	Business Analyst<br>
+•	Developers<br>
+•	Admin<br>
+•	Tester<br>
+•	HRSD Developer & Admin<br>
+•	SecOps Dev & Consultant<br>
 
 <p><a href="https://interviewquestions.guru/servicenow-resume/"><b>ServiceNow Sample Resume Download</b></a></p>
 

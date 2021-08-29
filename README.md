@@ -172,18 +172,17 @@ What information does the System Dictionary contain?
 
 ## ServiceNow Versions
 
-Before Asprin 2011
-Summer 2007
-Fall 2007
-Summer 2008
-Winter 2009
-Spring 2009
-Fall 2009
-Winter 2010
-Spring 2010
-Fall 2010
-Winter 2011
-June 2011
-October 2011
+•	Summer 2007
+•	Fall 2007
+•	Summer 2008
+•	Winter 2009
+•	Spring 2009
+•	Fall 2009
+•	Winter 2010
+•	Spring 2010
+•	Fall 2010
+•	Winter 2011
+•	June 2011
+•	October 2011
 
 <p><a href="https://interviewquestions.guru/servicenow-versions/"><b>ServiceNow Versions & Release Dates with History</b></a></p>

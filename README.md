@@ -7,7 +7,6 @@
 <br>
 <br>
 
-
 <div align="center">
     <p>
         <a href="https://interviewquestions.guru/?s=servicenow">

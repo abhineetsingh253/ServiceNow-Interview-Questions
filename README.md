@@ -60,7 +60,11 @@ Customized Resume Avaiable for<br>
 12. What is difference between Service Request and Incident?
 13. What is category and catalog item?
 14. How to show a service request only to some set of users or groups?
-15. Which field differentiates catalog item, order guide and Record Producers? 
+15. Which field differentiates catalog item, order guide and Record Producers?
+16. What is the difference between a base table and an extended table?
+17. What is the difference between Task table and cmdb_ci table?
+18. How do you find all tables extended from a particular table?
+19. What is a dictionary override?
 
 ## ServiceNow Developer Interview Questions
 
